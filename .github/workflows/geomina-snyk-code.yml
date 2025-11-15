@@ -1,5 +1,4 @@
 name: Snyk SAST (Snyk Code)
-
 on:
   push:
     branches: ["main"]
